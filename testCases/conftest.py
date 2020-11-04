@@ -7,7 +7,7 @@ def setup(browser):
     if browser=='chrome':
         driver = webdriver.Chrome(executable_path="/Users/bobit/PycharmProjects/CRMnopcommercePytestPOM/Drivers/chromedriver")
         print("Launching Chrome brwoser.................")
-#adeddededede
+#adeddededededsjkfhskjdfhskj
     elif browser=='firefox':
         driver = webdriver.Firefox(executable_path="/Users/bobit/PycharmProjects/CRMnopcommercePytestPOM/Drivers/geckodriver")
         print("Launching Firefox brwoser.................")
